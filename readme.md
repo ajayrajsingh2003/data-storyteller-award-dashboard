@@ -43,10 +43,10 @@ The dashboard was built using the heart disease Dataset to explore patterns, vis
 ---
 
 ## 🗂 Files Included
-- **heart** → Dataset used in Tableau
-- **final_dashboard.twb** → Tableau workbook (backup copy)
+- **heart disease dataset** → Dataset used in Tableau
+- **final_dashboard.twb** → Tableau workbook 
 - **storybook.pdf** → Full presentation used for the award
-- **award-photo.jpg** → Proof of recognition
+- **data analysis** → For understanding the data and accuracies (.ipynb file)
 - **LinkedIn Post** → [View announcement of award + presidency](https://www.linkedin.com/feed/update/urn:li:activity:7246560421753536515/)
 
 ---
@@ -54,6 +54,7 @@ The dashboard was built using the heart disease Dataset to explore patterns, vis
 ## 🛠️ Tools & Skills
 - Tableau Public – Dashboarding, Storytelling, Visualization
 - Data Storytelling – Translating data into narratives
+- Data Analysis - Python, Pandas, Data Analysis, Data Analytics
 - Analytics & Leadership – Recognized by award + Data Science Club Presidency
 
 ---
