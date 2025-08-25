@@ -1,0 +1,18 @@
+# Tableau files
+dashboard/final_dashboard.twb Files/
+final_dashboard.twb
+
+# Jupyter notebooks
+*.ipynb
+
+# IDE folders
+.idea/
+
+# Python virtual environments
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
